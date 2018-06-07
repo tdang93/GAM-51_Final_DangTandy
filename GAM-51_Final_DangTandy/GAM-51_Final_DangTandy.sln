@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAM-51_Final_DangTandy", "GAM-51_Final_DangTandy.csproj", "{E0A3BCED-FB14-6ECD-CE50-44DAEF86D18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAM-51_Final_DangTandy.Plugins", "GAM-51_Final_DangTandy.Plugins.csproj", "{FA718DDD-3A6D-8563-413C-241CA2C61AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAM-51_Final_DangTandy.Editor.Plugins", "GAM-51_Final_DangTandy.Editor.Plugins.csproj", "{584AC457-A599-813F-EE05-1B14EFC55705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A3BCED-FB14-6ECD-CE50-44DAEF86D18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A3BCED-FB14-6ECD-CE50-44DAEF86D18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A3BCED-FB14-6ECD-CE50-44DAEF86D18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A3BCED-FB14-6ECD-CE50-44DAEF86D18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA718DDD-3A6D-8563-413C-241CA2C61AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA718DDD-3A6D-8563-413C-241CA2C61AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA718DDD-3A6D-8563-413C-241CA2C61AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA718DDD-3A6D-8563-413C-241CA2C61AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584AC457-A599-813F-EE05-1B14EFC55705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584AC457-A599-813F-EE05-1B14EFC55705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584AC457-A599-813F-EE05-1B14EFC55705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584AC457-A599-813F-EE05-1B14EFC55705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
